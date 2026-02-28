@@ -1,0 +1,16 @@
+# Gradle
+.gradle/
+build/
+local.properties
+
+# IDE
+.idea/
+
+# Keystore (敏感文件，不要上传)
+keystore
+*.jks
+*.keystore
+
+# OS
+.DS_Store
+Thumbs.db

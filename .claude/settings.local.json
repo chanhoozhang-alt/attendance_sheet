@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx skills find:*)",
+      "Bash(npx skills add:*)",
+      "Bash(del:*)",
+      "Bash(powershell.exe:*)",
+      "Bash(./gradlew:*)",
+      "Bash(cmd.exe:*)",
+      "Bash(gradlew.bat:*)",
+      "Bash(cmd:*)",
+      "Bash(git config:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
