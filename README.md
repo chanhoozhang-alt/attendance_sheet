@@ -2,6 +2,8 @@
 
 一款本地离线的 Android 考勤管理应用，用于记录工人每日考勤、自动统计出勤情况、计算工资并导出 Excel 报表。
 
+**[下载 APK](https://github.com/chanhoozhang-alt/attendance_sheet/releases/tag/v1.0.0)**
+
 ## 功能特性
 
 - 工人管理 - 添加/编辑/删除工人信息
@@ -20,7 +22,7 @@
 
 ## 安装
 
-下载 [release/app-release.apk](app/release/app-release.apk) 直接安装即可。
+点击上方下载链接获取 APK，直接安装即可。
 
 ## 使用说明
 
